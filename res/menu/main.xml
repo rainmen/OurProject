@@ -1,0 +1,52 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item 
+            android:id="@+id/map_common"
+            android:title="普通地图" 
+            android:showAsAction="never">
+            
+        </item>
+         <item 
+            android:id="@+id/map_satellite"
+            android:title="卫星地图" 
+            android:showAsAction="never">
+            
+        </item>
+         <item 
+            android:id="@+id/map_traffic"
+            android:title="实时交通（off）" 
+            android:showAsAction="never">
+            
+        </item>
+         <item 
+            android:id="@+id/map_location"
+            android:title="我的位置" 
+            android:showAsAction="never">
+            
+        </item>
+         <item 
+            android:id="@+id/map_loc_normal"
+            android:title="正常模式" 
+            android:showAsAction="never">
+            
+        </item>
+         <item 
+            android:id="@+id/map_loc_compass"
+            android:title="罗盘模式" 
+            android:showAsAction="never">
+            
+        </item>
+         <item 
+            android:id="@+id/map_loc_following"
+            android:title="跟随模式" 
+            android:showAsAction="never">
+            
+        </item>
+        <item 
+            android:id="@+id/map_add_marker"
+            android:title="添加覆盖物" 
+            android:showAsAction="never">
+            
+        </item>
+        
+    </menu>
